@@ -2,4 +2,4 @@
 My QA course
 
 
-Description of my project
+This is description of my project
